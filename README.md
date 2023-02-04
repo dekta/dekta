@@ -3,7 +3,7 @@ Hi 👋, I'm Ekta  Dhawal<br>A motivated backend developer from India<br>🌱 I�
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ekta-dhawal/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekta-dhawal/) 
 [![GitHub](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/dekta) 
 
 # 💻 Tech Stack:
