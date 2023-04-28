@@ -55,7 +55,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img width="45%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekta&hide_border=true&layout=compact" />
+<img width="45%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekta&hide_border=true&layout=compact"/>
 </p>
 
 <p align="center">
