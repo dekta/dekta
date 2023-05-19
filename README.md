@@ -9,8 +9,8 @@
  - 🌱 I’m currently learning Advance JavaScript,NodeJS, Express, MongoDB and MySQL
  - 👨‍💻 All of my projects are available at https://dekta.github.io/
  - 📫 How to reach me **ektadhawal6306@gmail.com** 
- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xN90OjvzT8xab5C8JI48741g4kkez7BY/view?usp=sharing)
-  - [![](https://visitcount.itsvg.in/api?id=dekta&icon=0&color=0)](https://visitcount.itsvg.in)
+ - 📄 Know about my experiences ([Resume](https://github.com/dekta/dekta/files/11515921/Ekta-Dhawal-Resume.pdf)
+)
 
 <br>
 
