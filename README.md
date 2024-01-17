@@ -10,8 +10,8 @@
  - 🌱 learning about MicroServices, Python
  - 👨‍💻 All of my projects are available at https://dekta.github.io/
  - 📫 How to reach me **ektadhawal6306@gmail.com** 
- - 📄 Know about my experiences ([Resume](https://git[Ekta-Dhawal_fw21_1162.pdf](https://github.com/dekta/dekta/files/13961474/Ekta-Dhawal_fw21_1162.pdf))
-)
+ - 📄 Know about my experiences [Resume](https://github.com/dekta/dekta/files/13962064/Ekta-Dhawal_fw21_1162.pdf)
+
 
 <br>
 
