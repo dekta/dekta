@@ -6,11 +6,12 @@
 <img align="right" width="400px" src = "https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt = "Coding">
 
 ## 
- - 👨‍💻 I’m currently working on NestJS,MongoDB,Kafka,Redis,Docker,ses,sns
- - 🌱 learning about MicroServices,Python
+ - 👨‍💻 I’m currently working on NestJS, MongoDB, Kafka, Redis, Docker,ses,sns
+ - 🌱 learning about MicroServices, Python
  - 👨‍💻 All of my projects are available at https://dekta.github.io/
  - 📫 How to reach me **ektadhawal6306@gmail.com** 
- - 📄 Know about my experiences ([Resume](https://github.com/dekta/dekta/files/11515921/Ekta-Dhawal-Resume.pdf)
+ - 📄 Know about my experiences ([Resume](https://git[Ekta-Dhawal_fw21_1162.pdf](https://github.com/dekta/dekta/files/13961474/Ekta-Dhawal_fw21_1162.pdf)
+hub.com/dekta/dekta/files/11515921/Ekta-Dhawal-Resume.pdf)
 )
 
 <br>
