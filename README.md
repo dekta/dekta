@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ekta Dhawal</h1>
-<h3 align="center">Passionate Backend Developer from India specializing in JavaScript and Node-js. Proficient in technologies such as Nest.js, MongoDB, and MySQL. Excited about creating robust and innovative solutions.</h3>
+<h3 align="center">Passionate Backend Developer from India specializing in JavaScript and Node-js. Proficient in technologies such as Nest.js, ExpressJS, MongoDB, and MySQL. Excited about creating robust and innovative solutions.</h3>
 
 <img align="right" width="400px" src = "https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt = "Coding">
 
@@ -8,9 +8,7 @@
  - 🌱 learning about MicroServices, Python
  - 👨‍💻 All of my projects are available at https://dekta.github.io/
  - 📫 How to reach me **ektadhawal6306@gmail.com** 
- - 📄 Know about my experiences [Resume](https://github.com/dekta/dekta/files/13962277/Ekta-Dhawal_fw21_1162.pdf)
-
-
+ - 📄 Know about my experiences [Resume](https://github.com/user-attachments/files/17339377/Ekta_Dhawal_Resume.pdf)
 
 <br>
 
